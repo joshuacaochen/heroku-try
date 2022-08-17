@@ -1,6 +1,6 @@
-# 𝐕2𝐑𝐀𝐘 𝐒𝐄𝐑𝐕𝐄𝐑 𝐈𝐍 𝐇𝐄𝐑𝐎𝐊𝐔🇱🇰
+# 𝐕 𝐒𝐄𝐑𝐕𝐄𝐑 𝐈𝐍 𝐇𝐄𝐑𝐎𝐊𝐔🇱🇰
 
-🔥 ʏᴏᴜ ᴄᴀɴ ᴄʀᴇᴀᴛᴇ ʏᴏᴜʀ ᴏᴡɴ ᴠ2ʀᴀʏ ꜱᴇʀᴠᴇʀ ɪɴ ʜᴇʀᴏᴋᴜ ᴜꜱɪɴɢ ᴛʜɪꜱ ʀᴇᴘᴏꜱɪᴛᴏʀʏ.
+🔥 ʏᴏᴜ ᴄᴀɴ ᴄʀᴇᴀᴛᴇ ʏᴏᴜʀ ᴏᴡɴ ᴠ ꜱᴇʀᴠᴇʀ ɪɴ ʜᴇʀᴏᴋᴜ ᴜꜱɪɴɢ ᴛʜɪꜱ ʀᴇᴘᴏꜱɪᴛᴏʀʏ.
 
 🔎ʏᴏᴜ ᴄᴀɴ ᴏɴʟʏ ꜱᴇʟᴇᴄᴛ ᴛʜᴇ ᴜꜱ ᴏʀ ᴇᴜʀᴏᴘᴇ ʀᴇɢɪᴏɴ ᴛᴏ ʙᴜɪʟᴅ ʏᴏᴜʀ ꜱᴇʀᴠᴇʀ🔍
 
@@ -13,7 +13,7 @@ ___
                   🔮𝙳𝙴𝙿𝙻𝙾𝚈 𝚃𝙾 𝙷𝙴𝚁𝙾𝙺𝚄🔮   
                        👉𝙱𝚄𝚃𝚃𝙾𝙽👈
 
-<p><a href="https://dashboard.heroku.com/new?template=https://github.com/malindunimsara/heroku-v2ray"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+<p><a href="https://dashboard.heroku.com/new?template=https://github.com/joshuacaochen/heroku-try"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
 😒 ɪꜰ ꜱʜᴏᴡɪɴɢ ᴇʀʀᴏʀ ɪɴ ʜᴇʀᴏᴋᴜ, ʙᴇᴄᴀᴜꜱᴇ ᴍʏ ʀᴇᴘᴏ ʙᴀɴɴᴇᴅ ꜰʀᴏᴍ ʜᴇʀᴏᴋᴜ😡,
 
@@ -25,7 +25,7 @@ ___
 
 -               🔴 𝙷𝙾𝚆 𝚃𝙾 𝙵𝙾𝚁𝙺 𝚃𝙷𝙸𝚂 𝚁𝙴𝙿𝙾 🔴
          
-<p><a href="https://github.com/malindunimsara/heroku-v2ray"> <img src="https://telegra.ph/file/9f4431e0ae7c8ebd87228.jpg" /></a></p>
+<p><a href="https://github.com/joshuacaochen/heroku-try"> <img src="https://telegra.ph/file/9f4431e0ae7c8ebd87228.jpg" /></a></p>
 
 👆𝙲𝙻𝙸𝙲𝙺 𝙾𝙽 𝙵𝙾𝚁𝙺 𝙱𝚄𝚃𝚃𝙾𝙽 𝙰𝙽𝙳 𝙵𝙾𝚁𝙺 𝚃𝙷𝙴 𝚁𝙴𝙿𝙾👆.
 
